@@ -1,3 +1,9 @@
 # Welcome to my blog
 
 I'm glad you are here. I plan to talk about ...
+Being a new PhD student :tada:
+
+##### A moat around my castle
+###### Finding somewhere to live
+Fife? Angus?...
+  St Andrews...
