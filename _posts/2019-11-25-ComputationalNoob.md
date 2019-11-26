@@ -1,6 +1,6 @@
 ---
-title: "Being a Computation Noob"
-data: 2019-11-25
+title: "Being a Computational Noob"
+date: 2019-11-25
 ---
 
 #### Trying to learn computational biology with 0 experience and in a non-computational team
