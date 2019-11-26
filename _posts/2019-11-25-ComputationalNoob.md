@@ -1,4 +1,6 @@
-# Being a Computational Noob
+title: Being a Computational Noob
+data: 2019-11-25
+
 #### Trying to learn computational biology with 0 experience and in a non-computational team
 
 * why it's needed
